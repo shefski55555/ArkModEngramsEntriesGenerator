@@ -1,4 +1,4 @@
-A simple python script to auto generate some usefule information files about your ark mod. Designed for use with ASA have no idea how it might work with ASE mods but if the fire structure is similiar don't see why it'd be an issue.
+A simple python script to auto generate some usefule information files about your ark mod. Designed for use with ASA have no idea how it might work with ASE mods but if the file structure is similiar don't see why it'd be an issue.
 
 Generates 2 files, one includes all items and engrams for your mod, seperated by folder. The other creates ini configuration lines which will remove/hide all the engrams added by your mod. I like giving this option so it's easy to hide a feature of my mods if a user doesn't like it.
 
@@ -10,5 +10,5 @@ Important note, when you have generated your files either remove the "Create Eng
 
 
 Example outputs:
-https://pastebin.com/CXjvMSVZ
-https://pastebin.com/1GFQHzCJ
+https://pastebin.com/CXjvMSVZ \
+https://pastebin.com/1GFQHzCJ \
