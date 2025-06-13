@@ -4,7 +4,7 @@ Generates 2 files, one includes all items and engrams for your mod, seperated by
 
 To use just put the Create Engram Entries Files.py and Extras Text.txt into your mod's content folder. (eg:ARKDevkit\Projects\ShooterGame\Mods\{MOD Name}\Content).
 
-Ensure python3 is installed, you can easily install it in Windows by opening the terminal and typing winget install --id Python.Python.3.13
+Ensure python3 is installed, you can easily install it in Windows by opening the terminal and typing ```winget install --id Python.Python.3.13```
 
 Important note, when you have generated your files either remove the "Create Engram Entries Files.py" file or rename it to a .txt otherwise Curseforege will reject the mod.
 
