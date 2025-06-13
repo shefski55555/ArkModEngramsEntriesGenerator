@@ -9,6 +9,6 @@ Ensure python3 is installed, you can easily install it in Windows by opening the
 Important note, when you have generated your files either remove the "Create Engram Entries Files.py" file or rename it to a .txt otherwise Curseforege will reject the mod.
 
 
-Example outputs:
+Example outputs: \
 https://pastebin.com/CXjvMSVZ \
-https://pastebin.com/1GFQHzCJ \
+https://pastebin.com/1GFQHzCJ
